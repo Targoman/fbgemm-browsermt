@@ -8,6 +8,7 @@
 
 #include <algorithm>
 #include <cstdint>
+#include <limit>
 
 #include "fbgemm/ConvUtils.h"
 #include "fbgemm/FbgemmI8Spmdm.h"
